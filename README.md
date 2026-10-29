@@ -10,7 +10,7 @@
 
 ## 📋 Sobre o projeto
 
-O **Lista de Tarefas** é um projeto de estudo que demonstra a integração entre HTML e JavaScript para criar uma lista simples de tarefas. Os itens são mantidos em um array durante a execução e persistidos no navegador por meio da API `localStorage`, permitindo que a lista seja recuperada após atualizar ou reabrir a página no mesmo navegador.
+O **Lista de Tarefas** é um projeto de estudo que demonstra a integração entre HTML e JavaScript para criar uma lista simples de tarefas. Os itens são mantidos em um array durante a execução e persistidos no navegador por meio da API `localStorage`, permitindo que a lista seja recuperada após atualizar ou reabrir a página no mesmo navegador. O projeto foi desenvolvido em acompanhamento ao curso Full Stack Pro - Sujeito Programador.
 
 ### Objetivos de aprendizagem
 
