@@ -1,10 +1,6 @@
-<div align="center">
-
 # Lista de Tarefas
 
 **Aplicação web simples para adicionar tarefas e armazená-las com JavaScript.**
-
-</div>
 
 ---
 
@@ -65,7 +61,7 @@ Licença não definida. Este projeto não possui um arquivo de licença configur
 
 ## 👤 Autor
 
-**Diego Prates**
+Diego Prates
 
 - GitHub: [@pratesddev](https://github.com/pratesddev)
 - LinkedIn: [Diego Prates](https://linkedin.com/in/prates-diego)
